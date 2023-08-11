@@ -1,0 +1,5 @@
+List<String>abc;
+for(i =0 ;i<menu.lenght();i++){
+    String menu= doc(Menu_$i).get("fields");
+    abc.add(menu);
+}
